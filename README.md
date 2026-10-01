@@ -22,4 +22,5 @@ Implementar um pequeno SGBD capaz de armazenar dados, executar consultas SQL e r
 ## Equipe
 
 - Valmir Ferreira
+- Anderson Silva
   
